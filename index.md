@@ -13,7 +13,7 @@ Authors:
 
 ### Project related links:
 
-| Part of the project | deadline |
+| Part of the project | Deadline |
 |--|--|
 | [Proposal](https://github.com/sash-tsvet/CSC2228-Project/proposal.pdf) | Oct 2 |
 | [Progress report]() | Nov 13 |
