@@ -1,17 +1,18 @@
 # Welcome to my project website for CSC2228
 
-This project is based on IBM project CAS 1063: Efficient Memory Footprint Reduction for Java Performance
+This project is based on IBM project 
+CAS 1063: Efficient Memory Footprint Reduction for Java Performance
 
-## JVM Footprint reduction for Edge Devices
+## JVM Footprint Reduction for Edge Devices
 
-Authors:
+###Authors:
 - Alexandra Tsvetkova
 - Bojian Zheng
 - Marius Pirvu
 - Gennady Pekhimenko
 
 
-### Project related links:
+### Project Related Rinks:
 
 | Part of the project | Deadline |
 |--|--|
