@@ -5,7 +5,7 @@ CAS 1063: Efficient Memory Footprint Reduction for Java Performance
 
 ## JVM Footprint Reduction for Edge Devices
 
-###Authors:
+### Authors:
 - Alexandra Tsvetkova
 - Bojian Zheng
 - Marius Pirvu
