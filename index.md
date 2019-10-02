@@ -18,7 +18,7 @@ The links immediately download the file
 
 | Part of the project | Deadline |
 |--|--|
-| [Proposal](https://raw.githubusercontent.com/sash-tsvet/CSC2228-Project/master/proposal.pdf){:target="_blank"} | Oct 2 |
+| [Proposal](https://raw.githubusercontent.com/sash-tsvet/CSC2228-Project/master/proposal.pdf target="_blank") | Oct 2 |
 | [Progress report]() | Nov 13 |
 | [Class presentation]()  | Dec 4 |
 | [Final report]() | Dec 13 |
