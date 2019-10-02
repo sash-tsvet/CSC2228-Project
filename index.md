@@ -16,7 +16,7 @@ CAS 1063: Efficient Memory Footprint Reduction for Java Performance
 
 | Part of the project | Deadline |
 |--|--|
-| [Proposal](https://github.com/sash-tsvet/CSC2228-Project/raw/master/proposal.pdf) | Oct 2 |
+| [Proposal](https://raw.githubusercontent.com/sash-tsvet/CSC2228-Project/master/proposal.pdf) | Oct 2 |
 | [Progress report]() | Nov 13 |
 | [Class presentation]()  | Dec 4 |
 | [Final report]() | Dec 13 |
