@@ -20,5 +20,5 @@ The links immediately download the file
 |--|--|
 | [Proposal](https://raw.githubusercontent.com/sash-tsvet/CSC2228-Project/master/proposal.pdf) | Oct 2 |
 | [Progress report](https://raw.githubusercontent.com/sash-tsvet/CSC2228-Project/master/progress_report.pdf) | Nov 13 |
-| [Class presentation]()  | Dec 4 |
+| [Class presentation](https://docs.google.com/presentation/d/1d-rvRlbFrqdMKRP35ZEa89_-s-jZPKXh1Trq3AKIbhA/edit?usp=sharing)  | Dec 4 |
 | [Final report]() | Dec 13 |
